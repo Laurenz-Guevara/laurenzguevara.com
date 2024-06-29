@@ -11,28 +11,28 @@ export default function Home() {
               target="_blank"
               href="https://docs.google.com/document/d/1FU8cYTrCgXB2S_QAJoIxWpBr1OUXAah7ZQNo3nSxtGQ/edit?usp=sharing"
             >
-              resume
+              Resume
             </Link>
           </li>
           <li>
-            <Link href="/">work</Link>
+            <Link href="/">Work</Link>
           </li>
           <li>
-            <Link href="/">portfolio</Link>
+            <Link href="/">Portfolio</Link>
           </li>
           <li>
-            <Link href="mailto:laurenz.guevara@gmail.com">contact</Link>
+            <Link href="mailto:laurenz.guevara@gmail.com">Contact</Link>
           </li>
         </ul>
       </div>
       <div className="lg:col-span-5 lg:mt-auto">
         <h1 className="block lg:hidden">Hello, I'm Laurenz Guevara</h1>
         <div className="lg:col-span-2">
-          <h2 className="hidden lg:block">Hello</h2>
+          <h2 className="hidden lg:block">Hello,</h2>
           <p className="pt-4 max-w-xl">
-            I’m a UK-based Frontend Developer, actively building websites and
-            tinkering daily. Explore to discover more about my ongoing projects
-            and past endeavours in this digital space.
+            Front-end Developer living in the UK with over 4 years of experience
+            as a web developer. Currently working building the next big platform
+            using Next.js. Currently not open to new opportunities.
           </p>
         </div>
         <div className="space-y-8 pt-8 lg:pt-20 lg:flex lg:space-y-0 lg:space-x-28">

@@ -30,12 +30,14 @@ export default function Home() {
         <div className="lg:col-span-2">
           <h2 className="hidden lg:block">Hello,</h2>
           <p className="pt-4 max-w-xl">
-            Front-end Developer living in the UK with over 4 years of experience
-            as a web developer. Currently working building the next big platform
-            using Next.js. Currently not open to new opportunities.
+            Front-end Developer based in the UK with over 4 years of experience
+            as a web developer. Currently building the next big platform on a
+            mission to make competitive events more accessible for participants,
+            organizers, and fans. Currently not accepting new clients for
+            freelance website development.
           </p>
         </div>
-        <div className="space-y-8 pt-8 lg:pt-20 lg:flex lg:space-y-0 lg:space-x-28">
+        <div className="space-y-8 pt-8 lg:pt-16 lg:flex lg:space-y-0 lg:space-x-28">
           <div className="space-y-2">
             <h3 className="text-lgGrey">ROLE</h3>
             <p>Front-end Developer</p>
